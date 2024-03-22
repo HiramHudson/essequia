@@ -1,0 +1,30 @@
+{
+  "name": "essequia",
+  "version": "1.7.1",
+  "description": "NEON decoder and encoder for JavaScript",
+  "main": "src/neon.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.1"
+  },
+  "scripts": {
+    "test": "mocha --ui tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HiramHudson/essequia.git"
+  },
+  "keywords": [
+    "neon",
+    "sapiente"
+  ],
+  "author": "ReyesLemke",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/HiramHudson/essequia.git/issues"
+  },
+  "homepage": "https://github.com/HiramHudson/essequia.git"
+}
